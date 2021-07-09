@@ -2,4 +2,3 @@ blah blah blah
 mars is a planet
 more text
 another line
-an ill considered change
